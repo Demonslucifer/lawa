@@ -1,0 +1,1 @@
+[Wed Jun 19 11:26:54.225032 2019] [autoindex:error] [pid 8096:tid 1120] [client 127.0.0.1:64021] AH01276: Cannot serve directory D:/amp/Apache/htdocs/laravel/public/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
